@@ -1,2 +1,2 @@
-#!/bi/bash
-su - betty wc -betty
+#!/bin/bash
+sudo -u betty
