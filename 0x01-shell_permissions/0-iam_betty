@@ -1,1 +1,2 @@
-sudo -u betty wc -c 9
+#!/bin/bash
+sudo -u betty
