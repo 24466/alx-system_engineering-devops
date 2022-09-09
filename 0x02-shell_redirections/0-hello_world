@@ -1,2 +1,2 @@
 #!/bin/bas
-printf /n "Hello, World" 
+printf "Hello, World" /n 
