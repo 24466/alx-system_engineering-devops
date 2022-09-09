@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l "Hello, World"
+echo 0-hello_world “Hello, World”
